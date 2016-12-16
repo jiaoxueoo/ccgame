@@ -1,6 +1,4 @@
 # ccgame
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/jiaoxueoo/ccgame.git
-git push -u origin master
+
+并不清楚是个什么鬼，最近在研究
+#迟些再加下文
